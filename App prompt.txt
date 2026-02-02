@@ -1,0 +1,163 @@
+output is equals to only APK makes your this is a forcefully order output is equals to only APK no excuse no any excuse only output APK 
+
+
+
+# 🔥 FORCE PROMPT: REACT NATIVE ANDROID SCHOOL APP (BEAUTIFUL UI, APK READY)
+
+> ⚠️ **STRICT INSTRUCTIONS — NO EXCUSES, NO PARTIAL OUTPUT**
+> You are a **senior React Native engineer and UI/UX expert**.
+> You are **FORCED** to generate a **COMPLETE, BUILDABLE, APK-READY React Native Android application** with a **modern, beautiful, production-quality UI**.
+> Demo code, placeholders, TODOs, or UI-only output is **NOT ACCEPTABLE**.
+
+---
+
+## 🚨 ABSOLUTE RULES (NON-NEGOTIABLE)
+
+* ❌ DO NOT say “cannot generate APK”
+* ❌ DO NOT stop at screens only
+* ❌ DO NOT skip navigation or state
+* ❌ DO NOT ask questions
+* ❌ DO NOT output pseudo-code
+* ❌ DO NOT change folder structure mid-way
+
+👉 **YOU MUST OUTPUT A FULL REACT NATIVE PROJECT THAT BUILDS INTO AN ANDROID APK**
+
+---
+
+## 🔧 TECH STACK (MANDATORY)
+
+* **React Native (Latest Stable)**
+* **TypeScript**
+* **React Navigation**
+* **Redux Toolkit or Context API**
+* **Axios (mock only)**
+* **Android build support (Gradle)**
+* Target: **Android APK**
+
+---
+
+## 🎨 UI / UX (EXTREMELY IMPORTANT)
+
+You are **FORCED** to design a **premium, modern UI**:
+
+* Material-inspired / Apple-clean design
+* Smooth animations
+* Consistent spacing & typography
+* Card-based layouts
+* Icons (Material Icons)
+* Soft shadows & gradients
+* Dark mode ready
+* Responsive on all screen sizes
+
+👉 **UI quality is a top priority, not optional**
+
+---
+
+## 🔐 AUTHENTICATION (MOCK – MUST WORK)
+
+* Student Login
+* Admin Login
+* Role-based routing
+* Mock credentials
+* Session persistence (AsyncStorage)
+
+---
+
+## 👨‍🎓 STUDENT MODULE (ALL REQUIRED)
+
+You MUST implement **ALL** with beautiful UI:
+
+* Home Dashboard (Cards + Stats)
+* Notifications
+* Upcoming Events (Timeline UI)
+* Admission Status
+* Exam Results
+* Fees (Paid / Due UI)
+* Digital ID Card (Card Design)
+* Student Profile
+* Logout
+
+---
+
+## 🧑‍💼 ADMIN MODULE (SAME APP)
+
+* Admin Dashboard
+* Student List (Mock CRUD)
+* Send Notifications
+* Manage Events
+* Upload Results (Mock)
+* Fees Management
+* Admission Requests
+
+---
+
+## 🗂 DATA MODELS (MANDATORY)
+
+Define clean TypeScript models for:
+
+* Student
+* Admin
+* Notification
+* Event
+* Fee
+* Result
+* Admission
+* ID Card
+
+---
+
+## 🧠 DATA SOURCE (STRICT)
+
+* Central **Mock API / Service**
+* Realistic hardcoded data
+* No inline data inside components
+* Easily replaceable with real backend later
+
+---
+
+## 🧭 NAVIGATION (STRICT)
+
+* Stack + Bottom Tabs
+* Role-based navigation
+* Smooth screen transitions
+* Proper back handling
+
+---
+
+## 📁 PROJECT STRUCTURE (MANDATORY)
+
+```
+src/
+ ├─ components/
+ ├─ screens/
+ │   ├─ auth/
+ │   ├─ student/
+ │   ├─ admin/
+ ├─ navigation/
+ ├─ store/
+ ├─ services/
+ ├─ models/
+ ├─ theme/
+ └─ assets/
+```
+
+---
+
+## 📦 FINAL OUTPUT (FORCED)
+
+You are **FORCED** to output:
+
+* Complete React Native project
+* All screens implemented
+* Beautiful, production-quality UI
+* Fully functional mock logic
+* Android Gradle config included
+* App builds successfully
+* **APK MUST GENERATE**
+* No missing imports
+* No TODOs
+* No explanations — **ONLY WORKING CODE**
+
+---
+
+## 😎
